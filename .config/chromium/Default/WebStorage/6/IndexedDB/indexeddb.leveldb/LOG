@@ -1,6 +1,0 @@
-2025/12/15-01:08:46.021 98b Creating DB /home/einarthegolden/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb since it was missing.
-2025/12/15-01:08:46.029 98b Reusing MANIFEST /home/einarthegolden/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/12/15-01:08:52.400 98c Level-0 table #5: started
-2025/12/15-01:08:52.403 98c Level-0 table #5: 9722 bytes OK
-2025/12/15-01:08:52.407 98c Delete type=0 #3
-2025/12/15-01:08:52.407 98c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
