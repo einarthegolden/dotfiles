@@ -1,0 +1,18 @@
+2026/01/05-18:05:42.399 ab2 Reusing MANIFEST /home/einarthegolden/.config/chromium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2026/01/05-18:05:42.399 ab2 Recovering log #328
+2026/01/05-18:05:42.404 ab2 Reusing old log /home/einarthegolden/.config/chromium/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000328.log 
+2026/01/05-18:05:44.271 ab2 Level-0 table #332: started
+2026/01/05-18:05:44.285 ab2 Level-0 table #332: 3373202 bytes OK
+2026/01/05-18:05:44.291 ab2 Delete type=0 #328
+2026/01/05-20:35:50.346 ab2 Level-0 table #334: started
+2026/01/05-20:35:50.358 ab2 Level-0 table #334: 2953968 bytes OK
+2026/01/05-20:35:50.360 ab2 Delete type=0 #331
+2026/01/05-20:35:50.360 ab2 Compacting 4@0 + 1@1 files
+2026/01/05-20:35:50.369 ab2 Generated table #335@0: 10 keys, 276831 bytes
+2026/01/05-20:35:50.369 ab2 Compacted 4@0 + 1@1 files => 276831 bytes
+2026/01/05-20:35:50.371 ab2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/05-20:35:50.371 ab2 Delete type=2 #324
+2026/01/05-20:35:50.372 ab2 Delete type=2 #326
+2026/01/05-20:35:50.372 ab2 Delete type=2 #329
+2026/01/05-20:35:50.372 ab2 Delete type=2 #332
+2026/01/05-20:35:50.372 ab2 Delete type=2 #334
