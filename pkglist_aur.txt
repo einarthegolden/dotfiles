@@ -1,11 +1,9 @@
 bibata-cursor-theme
-discord-screenaudio
 github-desktop-plus-bin
 hyprshade
+mediawriter
 pacseek
 proton-pass-bin
 python-pywalfox
+sddm-theme-sugar-candy-git
 stremio
-tauon-music-box
-zen-browser-bin
-snapd
